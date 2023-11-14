@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.py": "python",
+		"*.p4": "c",
+		"{{cookiecutter.project_name}}.h": "c"
+	}
+}
